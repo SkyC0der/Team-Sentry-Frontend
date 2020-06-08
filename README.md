@@ -6,13 +6,13 @@ This is the main repo of the Team sentry Frontend Devolopers
 
 Each sub-team lead [Team A,B,...] lead should create 5 folders which are:
 
-# footer and Navbar
+# Footer and NavBar
 # Page 1
 # Page 2
 # Page 3
 # Page 4
 
-*Each Team branch will contain the 5 folders above*
+*Each Team's branch should contain each of the 5 folders above*
 
 
 # TO-CONTRIBUTE:
